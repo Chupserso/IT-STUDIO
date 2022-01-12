@@ -1049,6 +1049,7 @@ footer .hr_wrapper {
   }
   footer {
     height: 1263px;
+    padding-bottom: 25px;
   }
   .footer__item {
     display: block;
